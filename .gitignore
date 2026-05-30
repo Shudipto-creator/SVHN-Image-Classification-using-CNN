@@ -1,0 +1,28 @@
+# SVHN dataset files (large, will be downloaded automatically)
+data/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output directories (optional - remove if you want to track outputs)
+# outputs_topic2/
+# extra_plots/
